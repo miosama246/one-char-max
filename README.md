@@ -10,4 +10,4 @@ It's clear that long file names for executables and scripts cause us many troubl
 Let's name these file using letter A-Z, a-z or number 0-9, WITHOUT extensions.
 a "?" script should list all available commands and tell us what they do.
 
-### Let's fight agaisnt long names!!
+### Let's fight against long names!!
